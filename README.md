@@ -4,8 +4,7 @@ Item escolhido= AirPods- Apple (Justificativa inicial- Tendência atual da trans
 
 1°s etapas- Coleta de tweets sobre o produto e classificação dos mesmos em relevante ou não;
 
-Critério para a classificação:
--
--
--
--
+Critério para a classificação dos tweets:
+    Tweet irrelevante = 0
+    Tweet relevante = 1
+    
